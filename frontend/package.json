@@ -24,7 +24,7 @@
     "@angular/router": "9.1.7",
     "core-js": "3.6.5",
     "rxjs": "6.3.3",
-    "zone.js": "0.8.26"
+    "zone.js": "0.10.3"
   },
   "devDependencies": {
     "@angular/compiler-cli": "9.1.7",
