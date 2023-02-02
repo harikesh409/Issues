@@ -30,7 +30,7 @@
     "@angular/compiler-cli": "9.1.11",
     "@angular-devkit/build-angular": "0.901.9",
     "typescript": "3.9.5",
-    "@angular/cli": "9.1.9",
+    "@angular/cli": "15.1.4",
     "@angular/language-service": "9.1.11",
     "@types/jasmine": "2.8.17",
     "@types/jasminewd2": "2.0.8",
